@@ -2,7 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  // border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $trans-blue;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -29,7 +30,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: none;
+    display: none;
   }
 
   .menu-icon {
@@ -54,6 +55,8 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+    right: 0;
+    margin-right: 20px;
 
     label[for="nav-trigger"] {
       display: block;
