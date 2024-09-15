@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+
+    {%- if page.banner-image -%}
+      <img
+        src={{page.banner-image}}
+        alt="banner image"
+        class="banner-image-post"
+      />
+      <!-- <br><br> -->
+    {%- endif -%}
+
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
