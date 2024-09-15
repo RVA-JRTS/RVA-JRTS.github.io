@@ -1,7 +1,7 @@
 ---
 layout: page
 title: James River Transgender Society
-permalink: /jrts
+permalink: /jrts/
 ---
 
 The James River Transgender Society was founded in 2006 with the goal of being both a support group and informational hub for people ages 16 and up. Meetings are held monthly and topic driven; past programs have included guest speakers, health professionals, video presentations, and more. Topics are posted before meetings on the group's social media pages.

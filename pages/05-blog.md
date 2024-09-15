@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-permalink: /blog
+permalink: /blog/
 show_excerpts: true
 # list_title: Posts
 ---

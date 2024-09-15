@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Let's Talk
-permalink: /lets-talk
+permalink: /lets-talk/
 ---
 
 A gender-variant discussion group

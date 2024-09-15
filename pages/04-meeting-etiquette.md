@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meeting Etiquette
-permalink: /meeting-etiquette
+permalink: /meeting-etiquette/
 ---
 
 JRTS and Let's Talk encourage open, fair, and safe conversations about a wide variety of topics related to our journeys and the transgender community. There are, hoverever, some guidelines to help ensure discussions remain respectful. Participants are expected to avoid detailed conversations about the following topics:

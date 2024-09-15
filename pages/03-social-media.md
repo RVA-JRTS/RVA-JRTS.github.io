@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social Media
-permalink: /social-media
+permalink: /social-media/
 ---
 All social media sites for JRTS and Let's Talk are closed groups *(members must be approved to participate)* and moderated. Any questions about posted content should be directed to the individual group's moderator.
 Participants may announce upcoming activities not posted on JRTS and Let's Talk social media calendars such as birthday parties and special events as long as they are family friendly and help in a safe space. If you are unsure about an announcement, please ask a moderator first.
