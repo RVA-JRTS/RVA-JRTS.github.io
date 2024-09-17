@@ -20,7 +20,7 @@ Example 1: page.image *(requires file path to be set in Front Matter)*
 
 Example 2: file path to image *(usesful if more than one image on a page)*
 
-<!-- ![alternate text]( /images/500x500.jpg ) -->
+<!-- ![alternate text]( /images/imagename.jpg ) -->
 ![example 2 - file path]( /images/test-example-2.png )
 
 Example 2: continued

@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-15T13:00:39-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JRTS</title><subtitle>This is a description for the site. This will appear in the document head meta (for Google search resuilts) and in your feed.xml site description.</subtitle><author><name>Davis Helms</name></author><entry><title type="html">Banner Image</title><link href="http://localhost:4000/update/2024/09/10/banner-image.html" rel="alternate" type="text/html" title="Banner Image" /><published>2024-09-10T02:00:00-04:00</published><updated>2024-09-10T02:00:00-04:00</updated><id>http://localhost:4000/update/2024/09/10/banner-image</id><content type="html" xml:base="http://localhost:4000/update/2024/09/10/banner-image.html"><![CDATA[<p>This page has a banner image across the top.</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[This page has a banner image across the top.]]></summary></entry><entry><title type="html">Image Test</title><link href="http://localhost:4000/update/2024/09/10/image-test.html" rel="alternate" type="text/html" title="Image Test" /><published>2024-09-10T01:00:00-04:00</published><updated>2024-09-10T01:00:00-04:00</updated><id>http://localhost:4000/update/2024/09/10/image-test</id><content type="html" xml:base="http://localhost:4000/update/2024/09/10/image-test.html"><![CDATA[<p>This is a test of how to display an image on a page.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-17T12:01:07-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">JRTS</title><subtitle>This is a description for the site. This will appear in the document head meta (for Google search resuilts) and in your feed.xml site description.</subtitle><author><name>Davis Helms</name></author><entry><title type="html">Resize Images</title><link href="http://localhost:4000/update/2024/09/17/resize-image.html" rel="alternate" type="text/html" title="Resize Images" /><published>2024-09-17T00:00:00-04:00</published><updated>2024-09-17T00:00:00-04:00</updated><id>http://localhost:4000/update/2024/09/17/resize-image</id><content type="html" xml:base="http://localhost:4000/update/2024/09/17/resize-image.html"><![CDATA[<p>Showing that images can be resized and how to arange them with <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code></p>
+
+<p><img src="/images/test-example-2.png" alt="image 1" width="250" />
+<img src="/images/test-example-2.png" alt="image 2" width="100" /></p>
+
+<p><img src="/images/test-example-2.png" alt="image 3" width="300" /></p>
+
+<p>Also, layout.
+If you don’t leave blank line between things, they will try to appear on the same line. (first two images.)
+Even if you leave a blank line, the two things will be touching. (first image touching third image.)<br />
+<br /></p>
+
+<hr />
+<p><br /></p>
+
+<p><img src="/images/test-example-2.png" alt="image 2" width="100" />
+<img src="/images/test-example-2.png" alt="image 2" width="100" />
+<img src="/images/test-example-2.png" alt="image 2" width="100" /></p>
+
+<p>This (above) is slightly different from this (below).</p>
+
+<p><img src="/images/test-example-2.png" alt="image 2" width="100" /><img src="/images/test-example-2.png" alt="image 2" width="100" /><img src="/images/test-example-2.png" alt="image 2" width="100" /></p>
+
+<p><br /></p>
+
+<hr />
+<p><br /></p>
+
+<p>To avoid this, use <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>, which means new line.</p>
+
+<p><img src="/images/test-example-2.png" alt="image 1" width="250" /> This <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> moves image 2 to the next line.<br />
+<img src="/images/test-example-2.png" alt="image 2" width="100" /> This <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> moves what ever is after it down a line.<br />
+This line and <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code>’s after it adds an extra line, making some white space between image 2 and 3.<br /><br />
+<img src="/images/test-example-2.png" alt="image 3" width="300" />
+<br /><br /></p>
+
+<hr />
+
+<p>So if I have some text.</p>
+
+<p>Leave a bunch of white space.</p>
+
+<p>These lines will appear just next to each other.</p>
+
+<p><br /></p>
+
+<p>So if I want space.
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+A bunch of <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> will do the trick.</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[Showing that images can be resized and how to arange them with &lt;br&gt;]]></summary></entry><entry><title type="html">Banner Image</title><link href="http://localhost:4000/update/2024/09/10/banner-image.html" rel="alternate" type="text/html" title="Banner Image" /><published>2024-09-10T02:00:00-04:00</published><updated>2024-09-10T02:00:00-04:00</updated><id>http://localhost:4000/update/2024/09/10/banner-image</id><content type="html" xml:base="http://localhost:4000/update/2024/09/10/banner-image.html"><![CDATA[<p>This page has a banner image across the top.</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[This page has a banner image across the top.]]></summary></entry><entry><title type="html">Image Test</title><link href="http://localhost:4000/update/2024/09/10/image-test.html" rel="alternate" type="text/html" title="Image Test" /><published>2024-09-10T01:00:00-04:00</published><updated>2024-09-10T01:00:00-04:00</updated><id>http://localhost:4000/update/2024/09/10/image-test</id><content type="html" xml:base="http://localhost:4000/update/2024/09/10/image-test.html"><![CDATA[<p>This is a test of how to display an image on a page.</p>
 
 <p>Example 1: page.image <em>(requires file path to be set in Front Matter)</em></p>
 
@@ -12,7 +60,7 @@
 
 <p>Example 2: file path to image <em>(usesful if more than one image on a page)</em></p>
 
-<!-- ![alternate text]( /images/500x500.jpg ) -->
+<!-- ![alternate text]( /images/imagename.jpg ) -->
 <p><img src="/images/test-example-2.png" alt="example 2 - file path" /></p>
 
 <p>Example 2: continued</p>
@@ -24,20 +72,4 @@ I leared today that you cannot use a date that hasn’t happened yet, but that d
 
 <p>post dated “2050-12-31”</p>
 
-<p>will not be visible until Dec. 31 2050</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[I am testing the post feature. I leared today that you cannot use a date that hasn’t happened yet, but that does mean you can pre-make a page that will become avalible on the date.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/update/2024/08/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-08-01T14:55:18-04:00</published><updated>2024-08-01T14:55:18-04:00</updated><id>http://localhost:4000/update/2024/08/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/update/2024/08/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>will not be visible until Dec. 31 2050</p>]]></content><author><name>Davis Helms</name></author><category term="update" /><summary type="html"><![CDATA[I am testing the post feature. I leared today that you cannot use a date that hasn’t happened yet, but that does mean you can pre-make a page that will become avalible on the date.]]></summary></entry></feed>
