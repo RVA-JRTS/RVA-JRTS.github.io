@@ -21,7 +21,7 @@
 # Site settings ----------------------
 title: JRTS
 email: jrts.richmond.va@gmail.com
-author: Davis Helms
+# author: Davis Helms
 description: >- # this means to ignore newlines until "baseurl:"
   This is a description for the site. This will appear in the document
   head meta (for Google search resuilts) and in your feed.xml site
@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Socials ----------------------
 twitter_username: JRTSRVA
-# github_username: jekyll
+github_username: RVA-JRTS
 # dribbble_username: jekyll
 facebook_username: richmondjrts
 facebook_group: jrts.rva
